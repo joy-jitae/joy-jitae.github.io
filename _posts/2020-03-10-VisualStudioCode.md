@@ -17,6 +17,7 @@ tags: ['vscode','wsl']
 
 - Microsoft Store 에서 Ubuntu 설치
 <img src="C:\Users\wlxos\OneDrive\바탕 화면\조이 블로그" />
+![](assets/images/우분투.png)
 
 
 
