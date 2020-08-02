@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28c1b447-27ed-4f1a-b0e4-ee18f0d589cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/joy-jitae.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2020-08-02-Spring-JPA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/3b2b6f549fb246c3a79b9d99664f4b8d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/H0ZEmIz7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/HdsydzJK.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/ads(1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/ads.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/analytics.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/androidstudio.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/api.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/base.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/common.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/cookie_push_onload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/f(1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/f(2).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/f(3).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/f(4).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/f(5).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/f(6).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/font(1).css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/font(2).css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/highlight.min.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/ide_cookie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/img(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/jquery-3.2.1.min.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/kakao.min.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/l" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/lightbox-plus-jquery.min.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/osd.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/outstream.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/outstream.min.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/postBtn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/profile.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/reaction-button-container.min.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/roosevelt_dk_bt.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/saved_resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/saved_resource(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/saved_resource(2)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/script.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/search_dragselection.min.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/style(1).css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/tiara.min.js(1).다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/tiara.min.js.다운로드" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/tistory.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/EntityManager_files/zrt_lookup.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fXwXQeLazf953SOMCeh8mml916" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jhyu\blog\joy_blog\joy-jitae.github.io\_posts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28c1b447-27ed-4f1a-b0e4-ee18f0d589cc" name="Default Changelist" comment="" />
+      <created>1596377784950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596377784950</updated>
+      <workItem from="1596377789044" duration="747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596378027105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596378027105" />
+  </component>
+</project>
